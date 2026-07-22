@@ -85,7 +85,7 @@ export default function ViewsBadge({
       tw="flex items-center justify-center h-full w-full"
       style={{
         backgroundColor: theme.background,
-        border: `2px solid ${theme.border}`,
+        border: `1px solid ${theme.border}`,
         borderRadius: `${borderRadius}px`,
       }}
     >
